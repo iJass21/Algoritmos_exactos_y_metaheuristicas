@@ -1,0 +1,3 @@
+1-2024.txt -> óptimo global (función objetivo): 13521
+2-2024.txt -> óptimo global (función objetivo): 11568
+3-2024.txt -> óptimo global (función objetivo): 13508
