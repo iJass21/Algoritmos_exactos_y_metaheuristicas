@@ -1,0 +1,3 @@
+Función 1 --> 0
+Función 2 --> 0
+Función 3 --> -4.687
